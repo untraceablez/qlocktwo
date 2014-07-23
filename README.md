@@ -16,6 +16,6 @@ By: [Taylor Cohron](http://taylorcohron.me/)
 	3. Foreground text (.rb)
 5. Enjoy!
 
-#####Afterthoughts
-There is a slight display problem at the moment, the top line does not align with the rest of the text, I'm picking apart the ruby script to fix this issue. If you find the fix on your own, please [email me](mailto:taylor.cohron@icloud.com).
+Thanks for being paitent as bugs are kinked out.
+
 
