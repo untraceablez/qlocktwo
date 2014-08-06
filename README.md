@@ -1,5 +1,5 @@
 By: [Taylor Cohron](http://taylorcohron.me/)  
-######Alpha 0.1
+######Beta 0.2
 ========
 #####Requirements:
 * A machine running OS X 10.6+
@@ -16,6 +16,7 @@ By: [Taylor Cohron](http://taylorcohron.me/)
 	3. Foreground text (.rb)
 5. Enjoy!
 
-Thanks for being paitent as bugs are kinked out.
+######Known Issues:
+* Top line shifts left on OS X 10.9+, unsure it it affects previous systems.
 
 
