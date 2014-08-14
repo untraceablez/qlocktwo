@@ -15,9 +15,9 @@ minutes = [
   "           \n           \nHALF       \nPAST   ",
   "           \nTWENTYFIVE \n         TO\n       ",
   "           \nTWENTY     \n         TO\n       ",
-  "A QUARTER  \n           \n       OF  \n       ",
+  "A QUARTER  \n           \n       TO  \n       ",
   "           \n           \n    TEN  TO\n       ",
-  "           \n      FIVE \n       OF  \n       "
+  "           \n      FIVE \n       TO  \n       "
   ]
 
 hours = [
