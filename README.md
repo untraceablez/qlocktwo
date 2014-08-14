@@ -17,6 +17,6 @@ By: [Taylor Cohron](http://taylorcohron.me/)
 5. Enjoy!
 
 ######Known Issues:
-* Top line shifts left on OS X 10.9+, unsure it it affects previous systems.
+* Top line shifts left on OS X 10.10, unsure it it affects previous systems.
 
 
