@@ -61,12 +61,12 @@ if(ARGV.include?("-a") || ARGV.include?("-an") || ARGV.include?("-na"))
   if(ARGV.include?("-n") || ARGV.include?("-an") || ARGV.include?("-na"))
 	puts antistring
   else
-	antistring.each_byte { | l |   print l.chr +  (l==?\n ? "" : " ") }
+	antistring.each_byte { | l |   print (l==?\n ? "" : " ") + l.chr }
   end
 elsif(ARGV.include?("-n"))
   puts output
 elsif(ARGV.length > 0)
   printf "Not valid use:\n\n -a to display the 'anti-string'\n -n display the string without spaces\n"
 else
-  output.each_byte { | l |   print l.chr +  (l==?\n ? "" : " ") }
+  output.each_byte { | l |   print (l==?\n ? "" : " ") + l.chr }
 end
